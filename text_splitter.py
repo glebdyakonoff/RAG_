@@ -19,7 +19,7 @@ from typing import (
 )
 
 
-from base.document import Document, BaseDocumentTransformer
+from RAG.base.document import Document, BaseDocumentTransformer
 
 logger = logging.getLogger(__name__)
 
