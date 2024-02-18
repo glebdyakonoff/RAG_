@@ -19,7 +19,7 @@ from typing import (
 )
 
 
-from langchain_core.documents import BaseDocumentTransformer, Document
+from base.document import Document, BaseDocumentTransformer
 
 logger = logging.getLogger(__name__)
 
